@@ -1,0 +1,12 @@
+
+*.o
+*.cbp
+*.depend
+*.layout
+
+
+Lab6/bin/**
+Lab6/debug/**
+Lab6/lasts/**
+Lab6/Untitled1
+
