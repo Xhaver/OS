@@ -4,9 +4,15 @@
 *.depend
 *.layout
 
-
+Lab6/main.cpp
 Lab6/bin/**
 Lab6/debug/**
 Lab6/lasts/**
 Lab6/Untitled1
+
+Lab7/bin/**
+Lab7/debug/**
+Lab7/obj/**
+Lab7/lasts/**
+Lab7/Untitled1
 
