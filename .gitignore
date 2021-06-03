@@ -1,4 +1,3 @@
-
 *.o
 *.cbp
 *.depend
@@ -14,5 +13,16 @@ Lab7/bin/**
 Lab7/debug/**
 Lab7/obj/**
 Lab7/lasts/**
-Lab7/Untitled1
+
+Lab8/bin/**
+Lab8/debug/**
+Lab8/obj/**
+
+Lab9/bin/**
+Lab9/debug/**
+Lab9/obj/**
+
+Lab10/bin/**
+Lab10/debug/**
+Lab10/obj/**
 
